@@ -18,3 +18,16 @@ This is a simple Chess Game written in python
   
 - Run `run.py`:
   - `python3 run.py`
+## Playing:
+On launching the game, there will be prompts for player 1 and player 2 name. Then an 8x8 chessboard will be displayed with 32 `Piece`
+- `Piece` legend:
+  - R for Rook
+  - $ for Knight
+  - B for Bishop
+  - K for King
+  - Q for Queen
+  - P for Pawn
+
+- Colouring:
+  - `Piece`. for Black
+  - .`Piece` for White
